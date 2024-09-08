@@ -3,9 +3,14 @@
  php artisan make:models
 
 GenerateModels.php (/app/Console/Commands/GenerateModels.php) {path file setting setup}
+     
+     //RUN THIS COMMAND ON TERMINAL:
+    touch app/Console/Commands/GenerateModels.php
 
 ArtisanServiceProvider.php (/olive/imperolehan/api_imperolehan/app/Providers/ArtisanServiceProvider.php) {utk run command models}
-
+   
+    //RUN THIS COMMAND ON TERMINAL:
+     php artisan make:provider ArtisanServiceProvider
 
 tmbah nie kat app.php
 
