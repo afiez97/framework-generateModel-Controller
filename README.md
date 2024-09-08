@@ -11,6 +11,8 @@ ArtisanServiceProvider.php (/olive/imperolehan/api_imperolehan/app/Providers/Art
    
     //RUN THIS COMMAND ON TERMINAL:
      php artisan make:provider ArtisanServiceProvider
+     // or
+     touch app/Providers/ArtisanServiceProvider.php
 
 tmbah nie kat app.php
 
